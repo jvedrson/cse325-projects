@@ -1,0 +1,15 @@
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.sourcelink.json
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+c:\Users\Ederson\Documents\Eder\BYU\2026\term-5\cse325\w02\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
